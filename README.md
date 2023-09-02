@@ -1,2 +1,2 @@
 # Calculator.html
-i have cfeated a working calculator using html and css.
+i have created a working calculator using html and css.
